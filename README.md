@@ -75,7 +75,7 @@ Project-VAYU
 
 ## 👥 Team
 
-**Team Name:** CodeCatalysts
+**Team Name:** hashmeetrandhawa08
 
 - Vaishali Gawali
 - Hashmeet Singh
