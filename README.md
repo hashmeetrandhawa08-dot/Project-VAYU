@@ -70,7 +70,7 @@ Project-VAYU
 ├── requirements.txt
 └── README.md
 ```
-
+Interface app : https://project-vayu-8bg7pyeljlrtbibxk5ee8i.streamlit.app
 ---
 
 ## 👥 Team
